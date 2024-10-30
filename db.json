@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "title": "Estudiar JS",
+      "completed": false
+    },
+    {
+      "title": "Sentarse a leer",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "title": "Aprender React",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "Prueba de vercel post",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "Prueba de  edit",
+      "completed": false,
+      "id": 6
+    }
+  ]
+}
